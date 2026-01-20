@@ -40,3 +40,28 @@ To understand SQL data types, constraints, and table design.
 1. Open MySQL Workbench
 2. Use database `intern_training_db`
 3. Run `task2.sql`
+
+# SQL Developer Internship – Task 3
+
+## Tools Used
+- MySQL Workbench
+
+## Task Objective
+To practice filtering data using SQL WHERE conditions.
+
+## Queries Covered
+- WHERE clause
+- AND / OR conditions
+- LIKE with wildcards
+- IN and BETWEEN
+- IS NULL checks
+- Column aliases
+
+## Real-Life Scenarios
+- Email domain search
+- Age-based filtering
+
+## How to Run
+1. Open MySQL Workbench
+2. Use database `intern_training_db`
+3. Execute `task3_filtering_queries.sql`
