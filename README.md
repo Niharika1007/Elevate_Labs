@@ -64,4 +64,32 @@ To practice filtering data using SQL WHERE conditions.
 ## How to Run
 1. Open MySQL Workbench
 2. Use database `intern_training_db`
-3. Execute `task3_filtering_queries.sql`
+3. Execute `task3.sql`
+
+# SQL Developer Internship – Task 4
+
+## Tools Used
+- MySQL Workbench
+
+## Task Objective
+To understand how to sort and paginate SQL query results.
+
+## Concepts Covered
+- ORDER BY (ASC and DESC)
+- Sorting using multiple columns
+- LIMIT clause
+- OFFSET for pagination
+- ORDER BY with WHERE
+- Leaderboard-style queries
+
+## Key Learnings
+- ORDER BY controls result ordering
+- LIMIT restricts number of rows returned
+- OFFSET helps implement pagination
+- Sorting large datasets may impact performance
+
+## How to Run
+1. Open MySQL Workbench
+2. Use database `intern_training_db`
+3. Execute `task4.sql`
+
