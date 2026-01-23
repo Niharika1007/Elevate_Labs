@@ -88,6 +88,36 @@ To understand how to sort and paginate SQL query results.
 - OFFSET helps implement pagination
 - Sorting large datasets may impact performance
 
+# SQL Developer Internship – Task 5
+
+## Tools Used
+- MySQL Workbench
+
+## Task Objective
+To understand and apply SQL aggregate functions with GROUP BY and HAVING clauses.
+
+## Concepts Covered
+- COUNT, SUM, AVG, MIN, MAX
+- GROUP BY clause
+- HAVING vs WHERE
+- Aggregation with filtering
+- Handling NULL values in aggregates
+
+## Real-World Scenario
+- Age-wise student distribution (similar to department-wise count)
+
+## Key Learnings
+- Aggregate functions summarize data
+- GROUP BY categorizes records
+- HAVING filters aggregated results
+- COUNT(column) ignores NULL values
+
+## How to Run
+1. Open MySQL Workbench
+2. Use database `intern_training_db`
+3. Execute `task5.sql`
+
+
 ## How to Run
 1. Open MySQL Workbench
 2. Use database `intern_training_db`
