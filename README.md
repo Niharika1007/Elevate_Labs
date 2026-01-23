@@ -117,6 +117,31 @@ To understand and apply SQL aggregate functions with GROUP BY and HAVING clauses
 2. Use database `intern_training_db`
 3. Execute `task5.sql`
 
+# SQL Developer Internship – Task 6
+
+## Tools Used
+- MySQL Workbench
+
+## Task Objective
+To practice full CRUD (Create, Read, Update, Delete) operations using SQL.
+
+## Operations Covered
+- CREATE table
+- INSERT bulk data
+- READ filtered data
+- UPDATE records with conditions
+- DELETE records safely
+- TRANSACTION with ROLLBACK
+
+## Key Learnings
+- WHERE clause ensures safe updates and deletes
+- Transactions help maintain data integrity
+- Validating before and after states is critical
+
+## How to Run
+1. Open MySQL Workbench
+2. Use database `intern_training_db`
+3. Execute `task6.sql`
 
 ## How to Run
 1. Open MySQL Workbench
